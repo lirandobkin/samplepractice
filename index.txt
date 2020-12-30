@@ -1,0 +1,3 @@
+This is a git test,
+Nothing special
+Just setting up git on my laptop!
